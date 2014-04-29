@@ -14,14 +14,52 @@
 		C00F7B45190EF9D700AE7844 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = C00F7B44190EF9D700AE7844 /* main.m */; };
 		C00F7B49190EF9D700AE7844 /* FEAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = C00F7B48190EF9D700AE7844 /* FEAppDelegate.m */; };
 		C00F7B4C190EF9D700AE7844 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C00F7B4A190EF9D700AE7844 /* Main.storyboard */; };
-		C00F7B4F190EF9D700AE7844 /* FEFirstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C00F7B4E190EF9D700AE7844 /* FEFirstViewController.m */; };
-		C00F7B52190EF9D700AE7844 /* FESecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C00F7B51190EF9D700AE7844 /* FESecondViewController.m */; };
 		C00F7B54190EF9D700AE7844 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C00F7B53190EF9D700AE7844 /* Images.xcassets */; };
 		C00F7B5B190EF9D700AE7844 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C00F7B5A190EF9D700AE7844 /* XCTest.framework */; };
 		C00F7B5C190EF9D700AE7844 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C00F7B38190EF9D700AE7844 /* Foundation.framework */; };
 		C00F7B5D190EF9D700AE7844 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C00F7B3C190EF9D700AE7844 /* UIKit.framework */; };
 		C00F7B65190EF9D700AE7844 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = C00F7B63190EF9D700AE7844 /* InfoPlist.strings */; };
 		C00F7B67190EF9D700AE7844 /* FinalExamTests.m in Sources */ = {isa = PBXBuildFile; fileRef = C00F7B66190EF9D700AE7844 /* FinalExamTests.m */; };
+		C00F7B7E190EFAB800AE7844 /* backGround.png in Resources */ = {isa = PBXBuildFile; fileRef = C00F7B70190EFAB800AE7844 /* backGround.png */; };
+		C00F7B7F190EFAB800AE7844 /* CardMatchingGame.m in Sources */ = {isa = PBXBuildFile; fileRef = C00F7B72190EFAB800AE7844 /* CardMatchingGame.m */; };
+		C00F7B80190EFAB800AE7844 /* morback.png in Resources */ = {isa = PBXBuildFile; fileRef = C00F7B73190EFAB800AE7844 /* morback.png */; };
+		C00F7B81190EFAB800AE7844 /* Card.m in Sources */ = {isa = PBXBuildFile; fileRef = C00F7B75190EFAB800AE7844 /* Card.m */; };
+		C00F7B82190EFAB800AE7844 /* Deck.m in Sources */ = {isa = PBXBuildFile; fileRef = C00F7B77190EFAB800AE7844 /* Deck.m */; };
+		C00F7B83190EFAB800AE7844 /* PlayingCard.m in Sources */ = {isa = PBXBuildFile; fileRef = C00F7B79190EFAB800AE7844 /* PlayingCard.m */; };
+		C00F7B84190EFAB800AE7844 /* PlayingCardDeck.m in Sources */ = {isa = PBXBuildFile; fileRef = C00F7B7B190EFAB800AE7844 /* PlayingCardDeck.m */; };
+		C00F7B85190EFAB800AE7844 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C00F7B7D190EFAB800AE7844 /* ViewController.m */; };
+		C00F7B8B190EFB7700AE7844 /* tabbaritem1.png in Resources */ = {isa = PBXBuildFile; fileRef = C00F7B87190EFB7700AE7844 /* tabbaritem1.png */; };
+		C00F7B8C190EFB7700AE7844 /* spirotabbaritem.png in Resources */ = {isa = PBXBuildFile; fileRef = C00F7B88190EFB7700AE7844 /* spirotabbaritem.png */; };
+		C00F7B8D190EFB7700AE7844 /* etchtabbaritem.png in Resources */ = {isa = PBXBuildFile; fileRef = C00F7B89190EFB7700AE7844 /* etchtabbaritem.png */; };
+		C00F7B8E190EFB7700AE7844 /* cardtabbaritem.png in Resources */ = {isa = PBXBuildFile; fileRef = C00F7B8A190EFB7700AE7844 /* cardtabbaritem.png */; };
+		C070E468190F043B00573281 /* redframer.png in Resources */ = {isa = PBXBuildFile; fileRef = C070E462190F043B00573281 /* redframer.png */; };
+		C070E469190F043B00573281 /* ESViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C070E464190F043B00573281 /* ESViewController.m */; };
+		C070E46A190F043B00573281 /* ESView.m in Sources */ = {isa = PBXBuildFile; fileRef = C070E466190F043B00573281 /* ESView.m */; };
+		C070E46B190F043B00573281 /* redframe.png in Resources */ = {isa = PBXBuildFile; fileRef = C070E467190F043B00573281 /* redframe.png */; };
+		C070E475190F0C7D00573281 /* SpirographView.m in Sources */ = {isa = PBXBuildFile; fileRef = C070E46E190F0C7D00573281 /* SpirographView.m */; };
+		C070E476190F0C7D00573281 /* SpirographViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C070E470190F0C7D00573281 /* SpirographViewController.m */; };
+		C070E477190F0C7D00573281 /* HarmonigraphView.m in Sources */ = {isa = PBXBuildFile; fileRef = C070E472190F0C7D00573281 /* HarmonigraphView.m */; };
+		C070E478190F0C7D00573281 /* kimage.png in Resources */ = {isa = PBXBuildFile; fileRef = C070E473190F0C7D00573281 /* kimage.png */; };
+		C070E479190F0C7D00573281 /* limage.png in Resources */ = {isa = PBXBuildFile; fileRef = C070E474190F0C7D00573281 /* limage.png */; };
+		C0FA6B78190F1BC40079AA66 /* PZAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = C0FA6B75190F1BC40079AA66 /* PZAppDelegate.m */; };
+		C0FA6B79190F1BC40079AA66 /* PZViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C0FA6B77190F1BC40079AA66 /* PZViewController.m */; };
+		C0FA6B8A190F1BED0079AA66 /* blank.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C0FA6B7A190F1BED0079AA66 /* blank.jpg */; };
+		C0FA6B8B190F1BED0079AA66 /* fifteen.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C0FA6B7B190F1BED0079AA66 /* fifteen.jpg */; };
+		C0FA6B8C190F1BED0079AA66 /* fourteen.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C0FA6B7C190F1BED0079AA66 /* fourteen.jpg */; };
+		C0FA6B8D190F1BED0079AA66 /* thirteen.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C0FA6B7D190F1BED0079AA66 /* thirteen.jpg */; };
+		C0FA6B8E190F1BED0079AA66 /* twelve.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C0FA6B7E190F1BED0079AA66 /* twelve.jpg */; };
+		C0FA6B8F190F1BED0079AA66 /* eleven.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C0FA6B7F190F1BED0079AA66 /* eleven.jpg */; };
+		C0FA6B90190F1BED0079AA66 /* ten.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C0FA6B80190F1BED0079AA66 /* ten.jpg */; };
+		C0FA6B91190F1BED0079AA66 /* nine.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C0FA6B81190F1BED0079AA66 /* nine.jpg */; };
+		C0FA6B92190F1BED0079AA66 /* eight.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C0FA6B82190F1BED0079AA66 /* eight.jpg */; };
+		C0FA6B93190F1BED0079AA66 /* seven.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C0FA6B83190F1BED0079AA66 /* seven.jpg */; };
+		C0FA6B94190F1BED0079AA66 /* six.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C0FA6B84190F1BED0079AA66 /* six.jpg */; };
+		C0FA6B95190F1BED0079AA66 /* five.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C0FA6B85190F1BED0079AA66 /* five.jpg */; };
+		C0FA6B96190F1BED0079AA66 /* four.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C0FA6B86190F1BED0079AA66 /* four.jpg */; };
+		C0FA6B97190F1BED0079AA66 /* three.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C0FA6B87190F1BED0079AA66 /* three.jpg */; };
+		C0FA6B98190F1BED0079AA66 /* two.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C0FA6B88190F1BED0079AA66 /* two.jpg */; };
+		C0FA6B99190F1BED0079AA66 /* one.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C0FA6B89190F1BED0079AA66 /* one.jpg */; };
+		C0FA6B9C190F1E2E0079AA66 /* fifteentabbaritem.png in Resources */ = {isa = PBXBuildFile; fileRef = C0FA6B9B190F1E2E0079AA66 /* fifteentabbaritem.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,16 +84,65 @@
 		C00F7B47190EF9D700AE7844 /* FEAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FEAppDelegate.h; sourceTree = "<group>"; };
 		C00F7B48190EF9D700AE7844 /* FEAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FEAppDelegate.m; sourceTree = "<group>"; };
 		C00F7B4B190EF9D700AE7844 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		C00F7B4D190EF9D700AE7844 /* FEFirstViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FEFirstViewController.h; sourceTree = "<group>"; };
-		C00F7B4E190EF9D700AE7844 /* FEFirstViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FEFirstViewController.m; sourceTree = "<group>"; };
-		C00F7B50190EF9D700AE7844 /* FESecondViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FESecondViewController.h; sourceTree = "<group>"; };
-		C00F7B51190EF9D700AE7844 /* FESecondViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FESecondViewController.m; sourceTree = "<group>"; };
 		C00F7B53190EF9D700AE7844 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		C00F7B59190EF9D700AE7844 /* FinalExamTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FinalExamTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C00F7B5A190EF9D700AE7844 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
 		C00F7B62190EF9D700AE7844 /* FinalExamTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "FinalExamTests-Info.plist"; sourceTree = "<group>"; };
 		C00F7B64190EF9D700AE7844 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		C00F7B66190EF9D700AE7844 /* FinalExamTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FinalExamTests.m; sourceTree = "<group>"; };
+		C00F7B70190EFAB800AE7844 /* backGround.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = backGround.png; sourceTree = "<group>"; };
+		C00F7B71190EFAB800AE7844 /* CardMatchingGame.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CardMatchingGame.h; sourceTree = "<group>"; };
+		C00F7B72190EFAB800AE7844 /* CardMatchingGame.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CardMatchingGame.m; sourceTree = "<group>"; };
+		C00F7B73190EFAB800AE7844 /* morback.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = morback.png; sourceTree = "<group>"; };
+		C00F7B74190EFAB800AE7844 /* Card.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Card.h; sourceTree = "<group>"; };
+		C00F7B75190EFAB800AE7844 /* Card.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Card.m; sourceTree = "<group>"; };
+		C00F7B76190EFAB800AE7844 /* Deck.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Deck.h; sourceTree = "<group>"; };
+		C00F7B77190EFAB800AE7844 /* Deck.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Deck.m; sourceTree = "<group>"; };
+		C00F7B78190EFAB800AE7844 /* PlayingCard.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PlayingCard.h; sourceTree = "<group>"; };
+		C00F7B79190EFAB800AE7844 /* PlayingCard.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PlayingCard.m; sourceTree = "<group>"; };
+		C00F7B7A190EFAB800AE7844 /* PlayingCardDeck.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PlayingCardDeck.h; sourceTree = "<group>"; };
+		C00F7B7B190EFAB800AE7844 /* PlayingCardDeck.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PlayingCardDeck.m; sourceTree = "<group>"; };
+		C00F7B7C190EFAB800AE7844 /* ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		C00F7B7D190EFAB800AE7844 /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		C00F7B87190EFB7700AE7844 /* tabbaritem1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tabbaritem1.png; sourceTree = "<group>"; };
+		C00F7B88190EFB7700AE7844 /* spirotabbaritem.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = spirotabbaritem.png; sourceTree = "<group>"; };
+		C00F7B89190EFB7700AE7844 /* etchtabbaritem.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = etchtabbaritem.png; sourceTree = "<group>"; };
+		C00F7B8A190EFB7700AE7844 /* cardtabbaritem.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cardtabbaritem.png; sourceTree = "<group>"; };
+		C070E462190F043B00573281 /* redframer.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = redframer.png; sourceTree = "<group>"; };
+		C070E463190F043B00573281 /* ESViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ESViewController.h; sourceTree = "<group>"; };
+		C070E464190F043B00573281 /* ESViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ESViewController.m; sourceTree = "<group>"; };
+		C070E465190F043B00573281 /* ESView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ESView.h; sourceTree = "<group>"; };
+		C070E466190F043B00573281 /* ESView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ESView.m; sourceTree = "<group>"; };
+		C070E467190F043B00573281 /* redframe.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = redframe.png; sourceTree = "<group>"; };
+		C070E46D190F0C7D00573281 /* SpirographView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SpirographView.h; sourceTree = "<group>"; };
+		C070E46E190F0C7D00573281 /* SpirographView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SpirographView.m; sourceTree = "<group>"; };
+		C070E46F190F0C7D00573281 /* SpirographViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SpirographViewController.h; sourceTree = "<group>"; };
+		C070E470190F0C7D00573281 /* SpirographViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SpirographViewController.m; sourceTree = "<group>"; };
+		C070E471190F0C7D00573281 /* HarmonigraphView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HarmonigraphView.h; sourceTree = "<group>"; };
+		C070E472190F0C7D00573281 /* HarmonigraphView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HarmonigraphView.m; sourceTree = "<group>"; };
+		C070E473190F0C7D00573281 /* kimage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = kimage.png; sourceTree = "<group>"; };
+		C070E474190F0C7D00573281 /* limage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = limage.png; sourceTree = "<group>"; };
+		C0FA6B74190F1BC40079AA66 /* PZAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PZAppDelegate.h; sourceTree = "<group>"; };
+		C0FA6B75190F1BC40079AA66 /* PZAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PZAppDelegate.m; sourceTree = "<group>"; };
+		C0FA6B76190F1BC40079AA66 /* PZViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PZViewController.h; sourceTree = "<group>"; };
+		C0FA6B77190F1BC40079AA66 /* PZViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PZViewController.m; sourceTree = "<group>"; };
+		C0FA6B7A190F1BED0079AA66 /* blank.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = blank.jpg; path = ../../../../Downloads/puzzle/puzzle/blank.jpg; sourceTree = "<group>"; };
+		C0FA6B7B190F1BED0079AA66 /* fifteen.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = fifteen.jpg; path = ../../../../Downloads/puzzle/puzzle/fifteen.jpg; sourceTree = "<group>"; };
+		C0FA6B7C190F1BED0079AA66 /* fourteen.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = fourteen.jpg; path = ../../../../Downloads/puzzle/puzzle/fourteen.jpg; sourceTree = "<group>"; };
+		C0FA6B7D190F1BED0079AA66 /* thirteen.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = thirteen.jpg; path = ../../../../Downloads/puzzle/puzzle/thirteen.jpg; sourceTree = "<group>"; };
+		C0FA6B7E190F1BED0079AA66 /* twelve.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = twelve.jpg; path = ../../../../Downloads/puzzle/puzzle/twelve.jpg; sourceTree = "<group>"; };
+		C0FA6B7F190F1BED0079AA66 /* eleven.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = eleven.jpg; path = ../../../../Downloads/puzzle/puzzle/eleven.jpg; sourceTree = "<group>"; };
+		C0FA6B80190F1BED0079AA66 /* ten.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = ten.jpg; path = ../../../../Downloads/puzzle/puzzle/ten.jpg; sourceTree = "<group>"; };
+		C0FA6B81190F1BED0079AA66 /* nine.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = nine.jpg; path = ../../../../Downloads/puzzle/puzzle/nine.jpg; sourceTree = "<group>"; };
+		C0FA6B82190F1BED0079AA66 /* eight.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = eight.jpg; path = ../../../../Downloads/puzzle/puzzle/eight.jpg; sourceTree = "<group>"; };
+		C0FA6B83190F1BED0079AA66 /* seven.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = seven.jpg; path = ../../../../Downloads/puzzle/puzzle/seven.jpg; sourceTree = "<group>"; };
+		C0FA6B84190F1BED0079AA66 /* six.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = six.jpg; path = ../../../../Downloads/puzzle/puzzle/six.jpg; sourceTree = "<group>"; };
+		C0FA6B85190F1BED0079AA66 /* five.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = five.jpg; path = ../../../../Downloads/puzzle/puzzle/five.jpg; sourceTree = "<group>"; };
+		C0FA6B86190F1BED0079AA66 /* four.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = four.jpg; path = ../../../../Downloads/puzzle/puzzle/four.jpg; sourceTree = "<group>"; };
+		C0FA6B87190F1BED0079AA66 /* three.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = three.jpg; path = ../../../../Downloads/puzzle/puzzle/three.jpg; sourceTree = "<group>"; };
+		C0FA6B88190F1BED0079AA66 /* two.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = two.jpg; path = ../../../../Downloads/puzzle/puzzle/two.jpg; sourceTree = "<group>"; };
+		C0FA6B89190F1BED0079AA66 /* one.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = one.jpg; path = ../../../../Downloads/puzzle/puzzle/one.jpg; sourceTree = "<group>"; };
+		C0FA6B9B190F1E2E0079AA66 /* fifteentabbaritem.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = fifteentabbaritem.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,13 +202,18 @@
 		C00F7B3E190EF9D700AE7844 /* FinalExam */ = {
 			isa = PBXGroup;
 			children = (
+				C070E47A190F0C8E00573281 /* Spirograph */,
+				C00F7B86190EFAC900AE7844 /* CardGame */,
+				C070E46C190F044500573281 /* Etch-A-Sketch */,
+				C00F7B87190EFB7700AE7844 /* tabbaritem1.png */,
+				C00F7B88190EFB7700AE7844 /* spirotabbaritem.png */,
+				C00F7B89190EFB7700AE7844 /* etchtabbaritem.png */,
+				C0FA6B9B190F1E2E0079AA66 /* fifteentabbaritem.png */,
+				C00F7B8A190EFB7700AE7844 /* cardtabbaritem.png */,
+				C0FA6B9A190F1C010079AA66 /* SliderPuzzle */,
 				C00F7B47190EF9D700AE7844 /* FEAppDelegate.h */,
 				C00F7B48190EF9D700AE7844 /* FEAppDelegate.m */,
 				C00F7B4A190EF9D700AE7844 /* Main.storyboard */,
-				C00F7B4D190EF9D700AE7844 /* FEFirstViewController.h */,
-				C00F7B4E190EF9D700AE7844 /* FEFirstViewController.m */,
-				C00F7B50190EF9D700AE7844 /* FESecondViewController.h */,
-				C00F7B51190EF9D700AE7844 /* FESecondViewController.m */,
 				C00F7B53190EF9D700AE7844 /* Images.xcassets */,
 				C00F7B3F190EF9D700AE7844 /* Supporting Files */,
 			);
@@ -155,6 +247,82 @@
 				C00F7B63190EF9D700AE7844 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		C00F7B86190EFAC900AE7844 /* CardGame */ = {
+			isa = PBXGroup;
+			children = (
+				C00F7B70190EFAB800AE7844 /* backGround.png */,
+				C00F7B71190EFAB800AE7844 /* CardMatchingGame.h */,
+				C00F7B72190EFAB800AE7844 /* CardMatchingGame.m */,
+				C00F7B73190EFAB800AE7844 /* morback.png */,
+				C00F7B74190EFAB800AE7844 /* Card.h */,
+				C00F7B75190EFAB800AE7844 /* Card.m */,
+				C00F7B76190EFAB800AE7844 /* Deck.h */,
+				C00F7B77190EFAB800AE7844 /* Deck.m */,
+				C00F7B78190EFAB800AE7844 /* PlayingCard.h */,
+				C00F7B79190EFAB800AE7844 /* PlayingCard.m */,
+				C00F7B7A190EFAB800AE7844 /* PlayingCardDeck.h */,
+				C00F7B7B190EFAB800AE7844 /* PlayingCardDeck.m */,
+				C00F7B7C190EFAB800AE7844 /* ViewController.h */,
+				C00F7B7D190EFAB800AE7844 /* ViewController.m */,
+			);
+			name = CardGame;
+			sourceTree = "<group>";
+		};
+		C070E46C190F044500573281 /* Etch-A-Sketch */ = {
+			isa = PBXGroup;
+			children = (
+				C070E462190F043B00573281 /* redframer.png */,
+				C070E463190F043B00573281 /* ESViewController.h */,
+				C070E464190F043B00573281 /* ESViewController.m */,
+				C070E465190F043B00573281 /* ESView.h */,
+				C070E466190F043B00573281 /* ESView.m */,
+				C070E467190F043B00573281 /* redframe.png */,
+			);
+			name = "Etch-A-Sketch";
+			sourceTree = "<group>";
+		};
+		C070E47A190F0C8E00573281 /* Spirograph */ = {
+			isa = PBXGroup;
+			children = (
+				C070E46D190F0C7D00573281 /* SpirographView.h */,
+				C070E46E190F0C7D00573281 /* SpirographView.m */,
+				C070E46F190F0C7D00573281 /* SpirographViewController.h */,
+				C070E470190F0C7D00573281 /* SpirographViewController.m */,
+				C070E471190F0C7D00573281 /* HarmonigraphView.h */,
+				C070E472190F0C7D00573281 /* HarmonigraphView.m */,
+				C070E473190F0C7D00573281 /* kimage.png */,
+				C070E474190F0C7D00573281 /* limage.png */,
+			);
+			name = Spirograph;
+			sourceTree = "<group>";
+		};
+		C0FA6B9A190F1C010079AA66 /* SliderPuzzle */ = {
+			isa = PBXGroup;
+			children = (
+				C0FA6B7A190F1BED0079AA66 /* blank.jpg */,
+				C0FA6B7B190F1BED0079AA66 /* fifteen.jpg */,
+				C0FA6B7C190F1BED0079AA66 /* fourteen.jpg */,
+				C0FA6B7D190F1BED0079AA66 /* thirteen.jpg */,
+				C0FA6B7E190F1BED0079AA66 /* twelve.jpg */,
+				C0FA6B7F190F1BED0079AA66 /* eleven.jpg */,
+				C0FA6B80190F1BED0079AA66 /* ten.jpg */,
+				C0FA6B81190F1BED0079AA66 /* nine.jpg */,
+				C0FA6B82190F1BED0079AA66 /* eight.jpg */,
+				C0FA6B83190F1BED0079AA66 /* seven.jpg */,
+				C0FA6B84190F1BED0079AA66 /* six.jpg */,
+				C0FA6B85190F1BED0079AA66 /* five.jpg */,
+				C0FA6B86190F1BED0079AA66 /* four.jpg */,
+				C0FA6B87190F1BED0079AA66 /* three.jpg */,
+				C0FA6B88190F1BED0079AA66 /* two.jpg */,
+				C0FA6B89190F1BED0079AA66 /* one.jpg */,
+				C0FA6B74190F1BC40079AA66 /* PZAppDelegate.h */,
+				C0FA6B75190F1BC40079AA66 /* PZAppDelegate.m */,
+				C0FA6B76190F1BC40079AA66 /* PZViewController.h */,
+				C0FA6B77190F1BC40079AA66 /* PZViewController.m */,
+			);
+			name = SliderPuzzle;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -234,9 +402,36 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C0FA6B98190F1BED0079AA66 /* two.jpg in Resources */,
+				C0FA6B93190F1BED0079AA66 /* seven.jpg in Resources */,
+				C00F7B8B190EFB7700AE7844 /* tabbaritem1.png in Resources */,
+				C00F7B8E190EFB7700AE7844 /* cardtabbaritem.png in Resources */,
+				C070E479190F0C7D00573281 /* limage.png in Resources */,
+				C0FA6B8D190F1BED0079AA66 /* thirteen.jpg in Resources */,
+				C0FA6B8C190F1BED0079AA66 /* fourteen.jpg in Resources */,
+				C0FA6B90190F1BED0079AA66 /* ten.jpg in Resources */,
 				C00F7B54190EF9D700AE7844 /* Images.xcassets in Resources */,
+				C0FA6B97190F1BED0079AA66 /* three.jpg in Resources */,
+				C0FA6B92190F1BED0079AA66 /* eight.jpg in Resources */,
+				C0FA6B91190F1BED0079AA66 /* nine.jpg in Resources */,
+				C0FA6B99190F1BED0079AA66 /* one.jpg in Resources */,
+				C00F7B7E190EFAB800AE7844 /* backGround.png in Resources */,
+				C0FA6B95190F1BED0079AA66 /* five.jpg in Resources */,
+				C0FA6B8B190F1BED0079AA66 /* fifteen.jpg in Resources */,
+				C0FA6B9C190F1E2E0079AA66 /* fifteentabbaritem.png in Resources */,
+				C070E468190F043B00573281 /* redframer.png in Resources */,
+				C00F7B80190EFAB800AE7844 /* morback.png in Resources */,
+				C0FA6B96190F1BED0079AA66 /* four.jpg in Resources */,
+				C0FA6B8F190F1BED0079AA66 /* eleven.jpg in Resources */,
+				C00F7B8D190EFB7700AE7844 /* etchtabbaritem.png in Resources */,
+				C070E478190F0C7D00573281 /* kimage.png in Resources */,
+				C070E46B190F043B00573281 /* redframe.png in Resources */,
+				C0FA6B94190F1BED0079AA66 /* six.jpg in Resources */,
 				C00F7B43190EF9D700AE7844 /* InfoPlist.strings in Resources */,
 				C00F7B4C190EF9D700AE7844 /* Main.storyboard in Resources */,
+				C0FA6B8A190F1BED0079AA66 /* blank.jpg in Resources */,
+				C0FA6B8E190F1BED0079AA66 /* twelve.jpg in Resources */,
+				C00F7B8C190EFB7700AE7844 /* spirotabbaritem.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -255,10 +450,21 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C00F7B4F190EF9D700AE7844 /* FEFirstViewController.m in Sources */,
-				C00F7B52190EF9D700AE7844 /* FESecondViewController.m in Sources */,
+				C00F7B84190EFAB800AE7844 /* PlayingCardDeck.m in Sources */,
+				C00F7B82190EFAB800AE7844 /* Deck.m in Sources */,
+				C0FA6B78190F1BC40079AA66 /* PZAppDelegate.m in Sources */,
+				C0FA6B79190F1BC40079AA66 /* PZViewController.m in Sources */,
+				C070E477190F0C7D00573281 /* HarmonigraphView.m in Sources */,
+				C00F7B85190EFAB800AE7844 /* ViewController.m in Sources */,
+				C00F7B7F190EFAB800AE7844 /* CardMatchingGame.m in Sources */,
+				C070E46A190F043B00573281 /* ESView.m in Sources */,
 				C00F7B45190EF9D700AE7844 /* main.m in Sources */,
 				C00F7B49190EF9D700AE7844 /* FEAppDelegate.m in Sources */,
+				C070E475190F0C7D00573281 /* SpirographView.m in Sources */,
+				C070E469190F043B00573281 /* ESViewController.m in Sources */,
+				C00F7B83190EFAB800AE7844 /* PlayingCard.m in Sources */,
+				C00F7B81190EFAB800AE7844 /* Card.m in Sources */,
+				C070E476190F0C7D00573281 /* SpirographViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -463,6 +669,7 @@
 				C00F7B6C190EF9D700AE7844 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C00F7B6D190EF9D700AE7844 /* Build configuration list for PBXNativeTarget "FinalExamTests" */ = {
 			isa = XCConfigurationList;
@@ -471,6 +678,7 @@
 				C00F7B6F190EF9D700AE7844 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
